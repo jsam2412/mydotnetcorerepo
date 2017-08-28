@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\sanyam.jain\\source\\repos\\mytestapp\\mytestapp\\mytestapp.csproj",
+      "projectUniqueName": "D:\\GitHub\\mydotnetcorerepo\\mydotnetcorerepo\\mytestapp\\mytestapp.csproj",
       "projectName": "mytestapp",
-      "projectPath": "C:\\Users\\sanyam.jain\\source\\repos\\mytestapp\\mytestapp\\mytestapp.csproj",
+      "projectPath": "D:\\GitHub\\mydotnetcorerepo\\mydotnetcorerepo\\mytestapp\\mytestapp.csproj",
       "packagesPath": "C:\\Users\\sanyam.jain\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sanyam.jain\\source\\repos\\mytestapp\\mytestapp\\obj\\",
+      "outputPath": "D:\\GitHub\\mydotnetcorerepo\\mydotnetcorerepo\\mytestapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

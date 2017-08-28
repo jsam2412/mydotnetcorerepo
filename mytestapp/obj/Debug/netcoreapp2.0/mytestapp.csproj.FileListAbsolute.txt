@@ -9,3 +9,14 @@ C:\Users\sanyam.jain\source\repos\mytestapp\mytestapp\obj\Debug\netcoreapp2.0\my
 C:\Users\sanyam.jain\source\repos\mytestapp\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.AssemblyInfo.cs
 C:\Users\sanyam.jain\source\repos\mytestapp\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.dll
 C:\Users\sanyam.jain\source\repos\mytestapp\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.pdb
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\bin\Debug\netcoreapp2.0\mytestapp.deps.json
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\bin\Debug\netcoreapp2.0\mytestapp.runtimeconfig.json
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\bin\Debug\netcoreapp2.0\mytestapp.runtimeconfig.dev.json
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\bin\Debug\netcoreapp2.0\mytestapp.dll
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\bin\Debug\netcoreapp2.0\mytestapp.pdb
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.csprojResolveAssemblyReference.cache
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.csproj.CoreCompileInputs.cache
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.AssemblyInfoInputs.cache
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.AssemblyInfo.cs
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.dll
+D:\GitHub\mydotnetcorerepo\mydotnetcorerepo\mytestapp\obj\Debug\netcoreapp2.0\mytestapp.pdb

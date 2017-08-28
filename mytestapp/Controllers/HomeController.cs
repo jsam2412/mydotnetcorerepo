@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using mytestapp.Models;
+using System.Net;
 
 namespace mytestapp.Controllers
 {
@@ -24,7 +25,7 @@ namespace mytestapp.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "DNS Name: " + Dns.GetHostName();
 
             return View();
         }
